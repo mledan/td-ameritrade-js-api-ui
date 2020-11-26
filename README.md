@@ -18,6 +18,7 @@ https://developer.tdameritrade.com/content/streaming-data#_Toc504640603
 
 # Contribute: 
 Feel free to use this as a starting base to save you some time in getting started and understanding the API.
+If you're looking for python implementation head over to https://github.com/areed1192/td-ameritrade-python-api/
 
 # Demo:
 https://htmlpreview.github.io/?https://github.com/mledan/tda-api-js-ui-interface/blob/main/index.html
