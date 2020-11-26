@@ -1,4 +1,4 @@
-# tda-api-js-ui-interface
+# td-ameritrade-js-api-ui
 
 Implementation of the getting started for streaming data through the tda-api using javascript
 https://developer.tdameritrade.com/content/streaming-data#_Toc504640603
