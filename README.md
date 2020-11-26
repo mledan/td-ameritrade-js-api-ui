@@ -11,6 +11,11 @@ https://developer.tdameritrade.com/content/streaming-data#_Toc504640603
 5. When done: Click UNSUBS from /ES
 6. Click Logout to close the socket
 
+# Planned Updates:
+1. Add request types
+2. Parameterize Requests and request types
+3. Replace User principals with local authentication  https://developer.tdameritrade.com/content/authentication-faq
+
 # Contribute: 
 Feel free to use this as a starting base to save you some time in getting started and understanding the API.
 
