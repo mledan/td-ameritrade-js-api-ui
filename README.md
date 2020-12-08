@@ -3,6 +3,9 @@
 Implementation of the getting started for streaming data through the tda-api using javascript
 https://developer.tdameritrade.com/content/streaming-data#_Toc504640603
 
+# Prequisites:
+1. TD Ameritrade Developer Account
+
 # Usage:
 1. Open index.html
 2. Get User Principals  from https://developer.tdameritrade.com/user-principal/apis/get/userprincipals-0 and paste response in the designated area to validate principal json on keyup
