@@ -1,0 +1,3 @@
+[submodule "td-ameritrade-vue"]
+	path = td-ameritrade-vue
+	url = https://github.com/himynameisoleg/td-ameritrade-vue.git
