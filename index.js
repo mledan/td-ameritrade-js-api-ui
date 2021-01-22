@@ -1,3 +1,5 @@
+import login from "login.js";
+
 (function () {
   if (!console) {
     console = {};
@@ -232,6 +234,8 @@ var sendRequest = function (blar) {
   //mySock.send(JSON.stringify(subsRequest));
 }
 
-
+const getAuth = () => {
+  console.log(login.test);
+}
 
 
