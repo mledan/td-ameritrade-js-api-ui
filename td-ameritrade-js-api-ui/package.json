@@ -1,0 +1,22 @@
+{
+  "name": "td-ameritrade-js-api-ui",
+  "version": "1.0.0",
+  "description": "Implementation of the getting started for streaming data through the tda-api using javascript https://developer.tdameritrade.com/content/streaming-data#_Toc504640603",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mledan/td-ameritrade-js-api-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mledan/td-ameritrade-js-api-ui/issues"
+  },
+  "homepage": "https://github.com/mledan/td-ameritrade-js-api-ui#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
